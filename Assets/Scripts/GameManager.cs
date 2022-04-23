@@ -12,7 +12,6 @@ public class GameManager : MonoBehaviour
 	private int _score;
 	private int _coinsCount = 1;
 	private bool _check = true;
-	[SerializeField]private GameObject _coinsPanel;
 	public static GameManager instance;
 
 	public void Awake()

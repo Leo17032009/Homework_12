@@ -1,0 +1,1 @@
+Based on Clicker(https://github.com/Andre0y/Clicker)

@@ -1,3 +1,0 @@
-Bugs:
-1. When you start the game, the counting of coins turns into a minus.
-2. There is no first purchase panel.
